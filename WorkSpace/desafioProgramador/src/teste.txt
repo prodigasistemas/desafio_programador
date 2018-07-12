@@ -1,0 +1,10 @@
+João Moreira;981244512;joao.moreira@mail.com
+Ana Clara Albuquerque;987121029;anacalbuquerque@mail.com
+Socorro Maia;999816276;socorromaia@mail.com.br
+Heraldo Silva;987162785;heraldo.silva61@mail.com
+Marco Costa;32241087;marcocst@mail.com.br
+Eloísa Machado;991762662;elo_machado@mail.com
+Paula Rodrigues;984179824;paula_rodrigues@mail.com.br
+Júlio Almeida;32228701;julio_alm@mail.com
+Ricardo Meireles;982911769;ricardo.meireles85@mail.com.br
+Isabela Soares;983176519;isabela_soares@mail.com.br
